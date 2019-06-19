@@ -1,5 +1,5 @@
-# aplpine-chainer
-aplpine-chainer Dockerfile
+# alpine-chainer
+alpine-chainer Dockerfile
 
 
 Minimam Docker Image をめざす
